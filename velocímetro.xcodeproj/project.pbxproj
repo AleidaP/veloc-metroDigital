@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E46ADB591D8D1CF400F5A888 /* velocímetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "velocímetro.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E46ADB521D8D1CDC00F5A888 = {
 			isa = PBXGroup;
 			children = (
+				E46ADB591D8D1CF400F5A888 /* velocímetro.playground */,
 			);
 			sourceTree = "<group>";
 		};
